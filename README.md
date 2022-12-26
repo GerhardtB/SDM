@@ -1,2 +1,2 @@
 # SDM
-Species Distribution Modelling
+A comprehensive analysis report on impacts of climate change on invasive alien species (IAS) in Mauritius. The main objectives are to assess the potential impacts of climate change on IAS and the likely evolution of IAS – biodiversity interactions. These objectives will be achieved by: i) mapping the distribution of selected key IAS in the Republic of Mauritius; and ii) conducting a vulnerability assessment of the different climatic zones to different biological invaders.
